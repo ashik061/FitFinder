@@ -87,7 +87,7 @@ p {
 .btn {
     background-color: #00fff2;
     color: black;
-    padding: 15px 20px;
+    padding: 10px 20px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
@@ -254,9 +254,82 @@ footer {
     padding-bottom: 100px;
     padding-right: 150px;
     text-align: right;
-    margin-bottom: 30px;
     
 }
+
+.search-section {
+    background-color: #dddbdb;
+    padding: 30px;
+}
+
+.search-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#search-bar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.category-buttons {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.listings-section {
+    padding: 20px;
+    text-align: center;
+}
+
+.activity-category {
+    margin-bottom: 40px;
+    align-items: center;
+}
+
+
+.activity-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.activity-card {
+    width: 30%;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.activity-card img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.destinations-banner {
+    background-image: url('image6.jpg');
+    background-size: cover;
+    background-position: top;
+    color: #ffffff;
+    padding-top: 250px;
+    padding-bottom: 100px;
+    padding-right: 150px;
+    padding-left: 150px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+
 
 
 
