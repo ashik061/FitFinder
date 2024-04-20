@@ -61,11 +61,14 @@ body {
 }
 
 .hero {
-    background-image: url('image.jpg');
+    background-image: url('assets/image6.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: top;
     color: #fff;
-    padding: 150px 140px;
+    padding-top: 250px;
+    padding-bottom: 100px;
+    padding-right: 150px;
+    padding-left: 150px;
     text-align: left;
 }
 
@@ -246,7 +249,7 @@ footer {
 }
 
 .activities-banner {
-    background-image: url('image5.jpg');
+    background-image: url('assets/image5.jpg');
     background-size: cover;
     background-position: bottom;
     color: #ffffff;
@@ -315,7 +318,7 @@ footer {
 }
 
 .destinations-banner {
-    background-image: url('image6.jpg');
+    background-image: url('assets/image.jpg');
     background-size: cover;
     background-position: top;
     color: #ffffff;
@@ -328,6 +331,18 @@ footer {
     
 }
 
+.resources-banner {
+    background-image: url('assets/image4.jpg');
+    background-size: cover;
+    background-position: bottom;
+    color: #000000;
+    padding-top: 250px;
+    padding-bottom: 100px;
+    padding-right: 150px;
+    padding-left: 150px;
+    text-align: center;
+    
+}
 
 
 
